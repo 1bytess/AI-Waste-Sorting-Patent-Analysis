@@ -87,7 +87,7 @@ To reproduce this analysis, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/AI-Waste-Sorting-Patent-Analysis.git](https://github.com/your-username/AI-Waste-Sorting-Patent-Analysis.git)
+    git clone https://github.com/1bytess/AI-Waste-Sorting-Patent-Analysis.git
     cd AI-Waste-Sorting-Patent-Analysis
     ```
 
